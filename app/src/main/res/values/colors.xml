@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gw.darkPrimaryColor">#455A64</color>
+    <color name="gw.accentColor">#607D8B</color>
+    <color name="gw.lightPrimaryColor">#CFD8DC</color>
+    <color name="gw.primaryTextColor">#212121</color>
+    <color name="gw.secondaryTextColor">#727272</color>
+    <color name="gw.iconColor">#CFD8DC</color>
+    <color name="gw.dividerColor">#B6B6B6</color>
+    <color name="gw.backgroundColor">#E9EAED</color>
+</resources>

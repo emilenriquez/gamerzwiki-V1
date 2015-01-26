@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gamerzwiki</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- titles -->
+    <string name="title_home">GamerzWiki Home</string>
+    <string name="title_settings">Settings</string>
+
+</resources>

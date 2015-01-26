@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.AppTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Base.AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Main theme colors -->
+        <item name="android:actionBarStyle">@style/gw_actionbar</item>
+        <item name="android:colorPrimaryDark">@color/gw.darkPrimaryColor</item>
+        <item name="android:colorPrimary">@color/gw.darkPrimaryColor</item>
+        <!--   theme UI controls like checkboxes and text fields -->
+        <item name="android:colorAccent">@color/gw.accentColor</item>
+        <item name="android:windowBackground">@color/gw.backgroundColor</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+
+    <style name="gw_actionbar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@color/gw.darkPrimaryColor</item>
+        <item name="android:statusBarColor">@color/gw.darkPrimaryColor</item>
+    </style>
+
+</resources>
